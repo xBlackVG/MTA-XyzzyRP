@@ -26,10 +26,4 @@ XyzzyRP, który z czasem jest zastępowany autorskim kodem.
 
 
 
-## [Project Santos](http://https://www.facebook.com/santosprojectmta/?fref=ts/)
-Polski serwer RPG używający większości skryptów od XyzzyRP,
-oraz kradzionych z Community od biedaków
-
-
-
 Jeśli korzystasz z tego kodu i chesz się tym pochwalić, zmodyfikuj ten plik i dopisz swój serwer.
